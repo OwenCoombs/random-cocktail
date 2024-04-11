@@ -4,9 +4,10 @@ padding: 30px;
 }
 
 body{
-background-color: #000000;
-background-image: linear-gradient(62deg, #000000 0%, #aaaaaa 100%);
+background-image: url("/images/th.jpg");
 height: 150vh;
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 
