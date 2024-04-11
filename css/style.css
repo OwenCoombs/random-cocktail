@@ -6,6 +6,13 @@ padding: 30px;
 body{
 background-color: #000000;
 background-image: linear-gradient(62deg, #000000 0%, #aaaaaa 100%);
-height: 100vh;
+height: 150vh;
 
+}
+
+p{
+    color: white;
+}
+#instructionsh1{
+    color: white;
 }
